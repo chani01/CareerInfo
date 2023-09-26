@@ -12,4 +12,4 @@
 ## [쑥쑥찰칵](https://www.jejememe.com/)
 아이가 받는 모든 사랑을 기억하게
 <br/> 온 가족이 함께하는 우리 아이 성장 기록 플랫폼
-<br/><br/>[커리어](https://github.com/chani01/CareerInfo/blob/main/murmuring.md)
+<br/><br/>[커리어](https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md)
