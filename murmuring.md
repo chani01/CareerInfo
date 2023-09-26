@@ -10,7 +10,7 @@
 - JAVA, KOTLIN
 
 ## 개발 환경
-- Windows, android studio, Slack, Zeplin
+- Windows, Android Studio, Slack, Zeplin
 
 ## 주요업무
   ### 머머링 3.0
