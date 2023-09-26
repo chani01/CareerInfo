@@ -10,7 +10,17 @@
 ## 근무기간
 - 2015.05 ~ 2019.04
 
-## 업무역활
+## 개발언어
+- JAVA, Objective-C
+
+## 개발 환경
+- macOS, android studio, xCode
+
+## 주요업무
+- 바이두 API를 활용한 푸시 서비스 구현
+- CameraAPI를 활용한 자사 정품 인증 라이브러리 연동하여 인증 페이지 구현
+- sns 로그인 구현
+- WebApp ANDROID, IOS porting
 
 ## 업무성과
  - 2017 모바일 기술 대상 수상(국무총리상)
