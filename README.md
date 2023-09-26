@@ -9,4 +9,7 @@
 머머링은 일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼
 <br/><br/>[커리어](https://github.com/chani01/CareerInfo/blob/main/murmuring.md)
 
-## 제제미미
+## 쑥쑥찰칵
+아이가 받는 모든 사랑을 기억하게
+<br/> 온 가족이 함께하는 우리 아이 성장 기록 플랫폼
+<br/><br/>[커리어](https://github.com/chani01/CareerInfo/blob/main/murmuring.md)
