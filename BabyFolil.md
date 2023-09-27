@@ -14,7 +14,7 @@
 - JAVA, Objective-C
 
 ## 개발 환경
-- macOS, Android Studio, xCode
+- macOS, Android Studio
 
 ## 주요업무
 - 바이두 API를 활용한 푸시 서비스 구현
