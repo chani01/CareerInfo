@@ -10,7 +10,7 @@
 - JAVA, KOTLIN
 
 ## 개발 환경
-- macOS, Android Studio, Slack, Zeplin
+- macOS, Android Studio, Slack, Zeplin, Figma
 
 ## 주요업무
   ### 탄생영상 개발
