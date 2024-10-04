@@ -17,5 +17,5 @@
 ## [맬리](https://meli.health/)
 건강을 위한 모든 순간 매일 이롭게
 <br/> 두뇌 건강, 두뇌 운동, 건강 관리 등 헬스케어 플렛폼
-<br/><br/>[커리어 링크](https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md)
+<br/><br/>[커리어 링크](https://github.com/chani01/CareerInfo/blob/main/meli.md)
 
