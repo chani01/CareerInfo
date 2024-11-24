@@ -8,10 +8,10 @@
 - 2024.11 ~ 재직중
 
 ## 개발언어
-- JAVA, KOTLIN
+- , KOTLIN
 
 ## 개발 환경
-- macOS, Android Studio, Slack, Zeplin, Figma
+- macOS, Android Studio, Slack, Figma
 
 ## 주요업무
   ### 2.0 리뉴얼 서비스 개발(따듯 - 재활 프로그램 제공)
