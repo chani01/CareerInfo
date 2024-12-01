@@ -8,7 +8,7 @@
 - 2024.11 ~ 재직중
 
 ## 개발언어
-- , KOTLIN
+- KOTLIN
 
 ## 개발 환경
 - macOS, Android Studio, Slack, Figma
