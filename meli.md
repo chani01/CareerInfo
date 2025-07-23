@@ -14,6 +14,7 @@
 - **개발언어:** Kotlin
 - **개발환경:** macOS, Android Studio
 - **협업 툴:** Slack, Figma
+- **주요 아키텍처 및 기술:** Clean Architecture, MVVM, DI, Coroutines, Jetpack Compose
 
 ---
 
